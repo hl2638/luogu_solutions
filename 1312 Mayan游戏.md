@@ -1,3 +1,5 @@
+3/3/2020
+
 [传送门 Teleport: Mayan Game @Luogu](https://www.luogu.com.cn/problem/P1312)
 
 中文要求及图见原题。
