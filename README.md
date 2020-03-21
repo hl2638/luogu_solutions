@@ -9,3 +9,6 @@ Let's see how things go.
 
 - I'm pretty proud of the analysis of P1441. Not a hard problem but I learned something about search trimming. I compared two searching methods from people's solutions and analyzed their efficiency. From this I learned a trimming method and another way of using DFS for picking a number of objects from a list.
 //written 3/3/2020
+
+- Okay things have been a mess and I only did one problem within the past two weeks. Will try to keep up.
+//written 3/21/2020
